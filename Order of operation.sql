@@ -1,0 +1,13 @@
+Order of operations:
+1. FROM, JOIN
+2. WHERE
+3. GROUP BY
+4. aggregate functions
+5. HAVING
+6. window functions
+7. SELECT
+8. DISTINCT
+9. UNION/INTERSECT/EXCEPT
+10. ORDER BY
+11. OFFSET
+12. LIMIT/FETCH/TOP
