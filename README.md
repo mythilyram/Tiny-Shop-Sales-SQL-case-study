@@ -14,6 +14,10 @@ Conquered a challenging SQL case study in PostgreSQL, navigating diverse SQL tec
  
 I'm excited to share my experience with the "Tiny Shop Sales Overview" case study through the Data In Motion platform,
 and this project offered the perfect chance to put multiple SQL concepts into action, extracting valuable insights from the data.
+
+I have data in the following tables. [Customers](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study/blob/main/tblCustomers.png), [Orders](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study/blob/main/tblOrders.png), [Order_items](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study/blob/main/tblOrderitems.png), and [Products](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study/blob/main/tblProducts.png).
+
+[Entity Relationship Diagram (ERD)](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study/blob/main/erd.png).
  
 Here's a glimpse of my accomplishments:
 
