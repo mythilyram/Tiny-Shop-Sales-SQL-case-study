@@ -1,4 +1,4 @@
-# Tiny-Shop-Sales-SQL-case-study
+# SQL Data Insights Project: 'Tiny Shop Sales Overview'
 
 Conquered a challenging SQL case study in PostgreSQL, navigating diverse SQL techniques including 
 
